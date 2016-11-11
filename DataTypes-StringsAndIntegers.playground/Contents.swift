@@ -1,5 +1,17 @@
-//: Playground - noun: a place where people can play
+let thirdPlanet = "Earth"
+var s = "my string"
+var ninthPlanet : String = "Pluto"
 
-import UIKit
+let fifthPlanet : String = "Jupiter"
+// fifthPlanet is a constant of type String
 
-var str = "Hello, playground"
+let sixthPlanet : String = "Saturn"
+// sixthPlanet is a constant of type String
+
+let seventhPlanet : String = "Uranus"
+// segventhPlanet is a constant of type String
+
+let numberOfCountriesInAfrica = 54
+let numberOfMoonsOfSaturn = 62
+
+print("There are \(numberOfMoonsOfSaturn) orbiting \(sixthPlanet)")
