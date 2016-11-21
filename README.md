@@ -108,3 +108,8 @@ let numberOfMoonsOfSaturn = 62
 Can you print out the sentence "There are 62 moons orbiting Saturn" using string interpolation? Check this lesson's playground if you get stuck!
 
 <a href='https://learn.co/lessons/DataTypes' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+let thirdPlanet = "Earth"
+var ninthPlanet: String
+ninthPlanet = "Pluto"
+
