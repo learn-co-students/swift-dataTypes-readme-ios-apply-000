@@ -65,13 +65,13 @@ Now add these lines to your playground:
 
 ```swift
 let fifthPlanet: String = "Jupiter"
-// fifthPlanet is a constant of type ______
+// fifthPlanet is a constant of type string
 
 let sixthPlanet: String = "Saturn"
-// sixthPlanet is a constant of type ______
+// sixthPlanet is a constant of type string
 
 let seventhPlanet = "Uranus"
-// seventhPlanet is a constant of type ______
+// seventhPlanet is a constant of type string
 ```
 
 Can you fill in the blanks? If you get stuck, remember that you can hold down the <kbd>Option</kbd> key and click on the constant's name to get information about it, including what type it is.
@@ -106,5 +106,6 @@ let numberOfMoonsOfSaturn = 62
 ```
 
 Can you print out the sentence "There are 62 moons orbiting Saturn" using string interpolation? Check this lesson's playground if you get stuck!
+print ("there are \(numberOfMoonsOfSaturn) moons orbiting \(sixthPlanet)" )
 
 <a href='https://learn.co/lessons/DataTypes' data-visibility='hidden'>View this lesson on Learn.co</a>
