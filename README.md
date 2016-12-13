@@ -1,3 +1,4 @@
+
 # Data Types: Strings and Ints
 
 ![Albert Einstein](http://i.imgur.com/Pwh4QrR.jpg?1)
